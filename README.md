@@ -1,4 +1,5 @@
 # Font-Awesome-AdobeCC-Library
+version: 6.1.1
 All Simple Font Awesome SVG files included in single Adobe Creative Cloud Library.
 
 For simple "Add to Library"
